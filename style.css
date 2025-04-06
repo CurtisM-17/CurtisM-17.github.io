@@ -1,0 +1,27 @@
+* {
+	/* All */
+	font-family: Tahoma, Verdana, sans-serif;
+}
+
+h1 {
+	color: #ffaf0d;
+	text-align: center;
+	margin-bottom: -10;
+} 
+h2 {
+	color: #ffc95d;
+}
+h4 {
+	color: #ffc95d;
+	font-size: 90%;
+}
+p {
+	color: #ffaf0d;
+}
+body { 
+	background-color:#1e1e1e;
+}
+hr {
+	border-color: #ffaf0d;
+	margin-bottom: 20;
+}
