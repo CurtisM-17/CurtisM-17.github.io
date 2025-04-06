@@ -3,6 +3,12 @@
 	font-family: Tahoma, Verdana, sans-serif;
 }
 
+.pageDiv {
+	padding-top: 2%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
 h1 {
 	color: #ffaf0d;
 	text-align: center;
