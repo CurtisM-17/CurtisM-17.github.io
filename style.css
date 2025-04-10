@@ -9,6 +9,12 @@
 	padding-right: 10%;
 }
 
+.aboutMe {
+	padding-left: 20%;
+	padding-right: 20%;
+	justify-content:center;
+}
+
 h1 {
 	color: #ffaf0d;
 	text-align: center;
@@ -22,11 +28,15 @@ h4 {
 	font-size: 90%;
 }
 p {
-	color: #ffaf0d;
+	color: #fff7e8;
 }
 body { 
 	background-color:#1e1e1e;
 }
+a {
+	color: #87cefa;
+}
+
 hr {
 	border-color: #ffaf0d;
 	margin-bottom: 20;
