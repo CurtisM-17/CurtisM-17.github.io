@@ -23,7 +23,7 @@ header {
 h1 {
 	color: #ffaf0d;
 	text-align: center;
-	margin-bottom: -10;
+	margin-bottom: -1.25%;
 } 
 h2 {
 	color: #ffc95d;
@@ -57,7 +57,7 @@ hr {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	margin-bottom: -0.5%;
+	margin-bottom: 2%;
 }
 
 .navigation-button {
