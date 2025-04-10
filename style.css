@@ -3,16 +3,21 @@
 	font-family: Tahoma, Verdana, sans-serif;
 }
 
+header {
+	margin-top: 1%;
+}
+
 .pageDiv {
 	padding-top: 2%;
 	padding-left: 10%;
 	padding-right: 10%;
 }
 
-.aboutMe {
+.content {
 	padding-left: 20%;
 	padding-right: 20%;
 	justify-content:center;
+	margin-bottom: 15%;
 }
 
 h1 {
@@ -30,9 +35,11 @@ h4 {
 p {
 	color: #fff7e8;
 }
+
 body { 
 	background-color:#1e1e1e;
 }
+
 a {
 	color: #87cefa;
 }
@@ -40,4 +47,33 @@ a {
 hr {
 	border-color: #ffaf0d;
 	margin-bottom: 20;
+}
+
+
+
+
+.navButtonContainer {
+	position:sticky;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: -0.5%;
+}
+
+.navigation-button {
+	text-decoration: none;
+	background-color: #c4870f;
+	font-weight:bold;
+	color: #333333;
+	padding: 2px 16px 2px 16px;
+	border-width: 0;
+	border-radius: 5px;
+	margin-right: 1.5%;
+
+	transform-origin: center bottom;
+	transition: transform 0.1s ease-in-out;
+}
+
+.navigation-button:hover {
+	transform: scale(1.1);
 }
