@@ -37,15 +37,19 @@ p {
 	color: #fff7e8;
 }
 
-body { 
-	background-color:#1e1e1e;
+html,
+body {
+	background-color:#290000;
+}
+
+body {
 	color: #1e1e1e;
 	opacity: 0;
-    transition: opacity 0.25s ease-in-out;
+	transition: opacity 0.25s ease-in-out;
 }
 
 body.fade-in {
-    opacity: 1;
+	opacity: 1;
 }
 
 a {
